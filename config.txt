@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-game=
+token=NTQzOTU5ODAyNjQwODU5MTc3.D0EKzA.hX7aCInZ8BNkCvQILVpwu5nDkeQ
+owner=525926850363654194
+prefix=1
+game=1help , 1play , By Avarii
 stayinchannel=true
 songinstatus=false
