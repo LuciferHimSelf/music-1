@@ -1,4 +1,4 @@
-token=NTQzOTU5ODAyNjQwODU5MTc3.D0EKzA.hX7aCInZ8BNkCvQILVpwu5nDkeQ
+token=NTQzOTU5ODAyNjQwODU5MTc3.D0IXRA.0Yp2Wk8Av1dL6xfowYnel45fS3c
 owner=525926850363654194
 prefix=1
 game=1help , 1play , By Avarii
